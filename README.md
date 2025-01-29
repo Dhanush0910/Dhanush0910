@@ -5,12 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanush0910&label=Profile%20views&color=0e75b6&style=flat" alt="dhanush0910" /> </p>
 
-- 🌱 I’m currently learning **Problem solving in Python**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **JavaScript and Python**
 
 - 📫 How to reach me **dhanush102003@gmail.com**
 
+-    Strengthened in **Problem Solving**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
