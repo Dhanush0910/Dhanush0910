@@ -1,146 +1,194 @@
-<h1 align="center">Hi 👋, I'm Dhanush T</h1>
-<h3 align="center">Full-Stack Developer building AI-powered tools with Python, React & Node.js</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhanush0910&label=Profile%20views&color=0e75b6&style=flat" alt="dhanush0910" />
-  <a href="https://linkedin.com/in/dhanush-t"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dhanush102003@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=180&section=header&text=Dhanush%20T&fontSize=48&fontColor=FFFFFF&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Python%20%C2%B7%20React%20%C2%B7%20Node.js&descAlignY=65&descSize=18" width="100%"/>
 
-<img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<br>
 
-### 🚀 About me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=Building+NTalent+%E2%80%94+AI-Powered+ATS+Matcher;Python+%7C+React+%7C+Node.js+%7C+REST+APIs;350%2B+DSA+Problems+Solved+on+Skillrack" alt="Typing SVG" />
 
-- 💼 Currently working as a **Python Developer** at **Natobotics Technologies**, building **NTalent** — an AI-powered ATS resume matcher using the **Gemini API** for semantic candidate screening
-- 🛠️ I like turning slow, manual processes into fast, scalable, automated ones
-- 🌱 Currently sharpening my skills in **React Native** and advanced **system design**
-- 💬 Ask me about **Python, JavaScript/TypeScript, React, or REST API design**
-- 🧩 Solved **350+ DSA problems** in Python & MySQL on Skillrack
-- 🏆 Top-10 finish, **Smart India Hackathon (SIH)** — queue management application
-- 📫 Reach me at **dhanush102003@gmail.com**
-- 📄 [View my résumé](#) &nbsp;|&nbsp; [Connect on LinkedIn](https://linkedin.com/in/dhanush-t)
+<br><br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://dhanushthanigaivel.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanush102003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanush-t)
+[![GitHub](https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhanush0910)
+[![LeetCode](https://img.shields.io/badge/LeetCode-6366F1?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/dhanush_0910)
+
+<img src="https://komarev.com/ghpvc/?username=dhanush0910&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile views" />
+
+</div>
+
+<br>
+
+## About
+
+<img align="right" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+- **Python Developer** at **Natobotics Technologies** — building **NTalent**, an AI-powered ATS resume matcher using the **Gemini API** for semantic candidate screening
+- I turn slow, manual processes into fast, scalable, automated systems
+- Currently sharpening **React Native** and advanced **system design**
+- Solved **350+ DSA problems** in Python & MySQL on Skillrack
+- **Top-10 finish** — Smart India Hackathon (queue management application)
+- Reach me at **dhanush102003@gmail.com**
 
 <br clear="right"/>
 
----
-
-### 🧠 Featured projects
+## Experience
 
 <table>
-  <tr>
-    <td width="50%">
-      <h4>🤖 NTalent — AI-Powered ATS Resume Matcher</h4>
-      <p>Automated resume-to-job-description analysis using the Gemini API. Generates skill-based match scores, gap analysis, and hiring recommendations through semantic retrieval — cutting manual screening effort significantly.</p>
-      <em>Python · Gemini API · Agile</em>
-    </td>
-    <td width="50%">
-      <h4>📦 Warehouse Management Chatbot</h4>
-      <p>A full-stack conversational chatbot for inventory management, stock tracking, and warehouse information retrieval — 100% functional coverage across core features.</p>
-      <em>React.js · Node.js</em>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🛒 MERN E-commerce Platform</h4>
-      <p>Responsive, scalable e-commerce application. Improved site performance by 30% across devices and cut cart abandonment by 25% by resolving checkout bottlenecks.</p>
-      <em>MongoDB · Express.js · React · Node.js</em>
-    </td>
-    <td width="50%">
-      <h4>🎯 Queue Management App — SIH</h4>
-      <p>Built as part of a cross-functional team during Smart India Hackathon, improving workflow efficiency and securing a Top-10 position.</p>
-      <em>Team project</em>
-    </td>
-  </tr>
+<tr>
+<td>
+
+**Python Developer** · Natobotics Technologies
+*Building NTalent — an AI-powered ATS resume matcher*
+
+Uses the Gemini API for semantic screening, skill-based match scoring, and gap analysis, significantly cutting manual resume-review effort.
+
+`Python` `Gemini API` `Agile`
+
+</td>
+</tr>
 </table>
 
----
+<br>
 
-### 🛠️ Languages & tools
+## Tech Stack
 
-All skills below are pulled directly from my resume's technical skills list. Click any icon to visit its docs.
+<table width="100%">
+<tr>
+<td valign="top" width="20%"><strong>Languages</strong></td>
+<td valign="top">
+<img src="https://skillicons.dev/icons?i=py,js,ts" />
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Front-end</strong></td>
+<td valign="top">
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Back-end</strong></td>
+<td valign="top">
+<img src="https://skillicons.dev/icons?i=nodejs,flask" />
+&nbsp;
+<img src="https://img.shields.io/badge/REST%20APIs-6366F1?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Agile-6366F1?style=flat-square&logo=jira&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Databases</strong></td>
+<td valign="top">
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Data & Integration</strong></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/XML%20Processing-6366F1?style=flat-square&logo=xml&logoColor=white" />
+<img src="https://img.shields.io/badge/ETL-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/Data%20Validation-6366F1?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Tools & Platforms</strong></td>
+<td valign="top">
+<img src="https://skillicons.dev/icons?i=git,github,aws" />
+</td>
+</tr>
+</table>
 
-**Languages**
+<br>
 
-<p align="left">
-<a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="48" height="48" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions" target="_blank"><img src="https://skillicons.dev/icons?i=regex" alt="Regex" width="48" height="48" /></a>
-</p>
+## Featured Projects
 
-**Front-end**
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" /></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React.js" width="48" height="48" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="48" height="48" /></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48" /></a>
-</p>
+### NTalent
+**AI-Powered ATS Resume Matcher**
 
-**Back-end & APIs**
+Automated resume-to-job-description analysis via the Gemini API. Generates skill-based match scores, gap analysis, and hiring recommendations through semantic retrieval.
 
-<p align="left">
-<a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" /></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="48" height="48" /></a>
-<a href="https://restfulapi.net/" target="_blank"><img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" /></a>
-<a href="https://www.atlassian.com/agile" target="_blank"><img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile" /></a>
-<a href="https://en.wikipedia.org/wiki/Systems_development_life_cycle" target="_blank"><img src="https://img.shields.io/badge/SDLC-4B5563?style=for-the-badge" alt="SDLC" /></a>
-</p>
+`Python` `Gemini API` `Agile`
 
-**Databases**
+</td>
+<td width="50%" valign="top">
 
-<p align="left">
-<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" /></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" /></a>
-</p>
+### Warehouse Chatbot
+**Inventory Management System**
 
-**Data integration & processing**
+Full-stack conversational chatbot for inventory management, stock tracking, and warehouse info retrieval — 100% functional coverage across core features.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/XML/Guides/XML_introduction" target="_blank"><img src="https://img.shields.io/badge/XML%20Processing-E34F26?style=for-the-badge&logo=xml&logoColor=white" alt="XML Processing" /></a>
-<a href="https://en.wikipedia.org/wiki/Extract,_transform,_load" target="_blank"><img src="https://img.shields.io/badge/ETL-336791?style=for-the-badge" alt="ETL-style Data Conversion" /></a>
-<a href="https://en.wikipedia.org/wiki/Data_validation" target="_blank"><img src="https://img.shields.io/badge/Data%20Validation-2E7D32?style=for-the-badge" alt="Data Validation" /></a>
-</p>
+`React.js` `Node.js`
 
-**Tools & platforms**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" /></a>
-<a href="https://github.com/Dhanush0910" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" /></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48" /></a>
-</p>
+### MERN E-commerce
+**Scalable Shopping Platform**
 
----
+Responsive e-commerce application. Improved site performance by 30% across devices and cut cart abandonment by 25% by fixing checkout bottlenecks.
 
-### 📊 GitHub stats
+`MongoDB` `Express.js` `React` `Node.js`
 
-<p align="left">
-  <img align="center" src="https://github-stats-extended.vercel.app/api?username=dhanush0910&show_icons=true&locale=en&theme=default" alt="dhanush0910 stats" height="165"/>
-  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=dhanush0910&show_icons=true&locale=en&layout=compact" alt="dhanush0910 top languages" height="165"/>
-</p>
+</td>
+<td width="50%" valign="top">
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=dhanush0910" alt="dhanush0910 streak stats" />
-</p>
+### Queue Management App
+**Smart India Hackathon**
 
----
+Built with a cross-functional team to improve workflow efficiency — secured a Top-10 position nationally.
 
-### 🎓 Certifications
+`Team Project`
 
-- Certified Software Developer – Python (Associate Level) — IOPPC, Mar 2025
-- The Full Stack — Coursera, Jan 2025
-- AWS Academy Cloud Foundations — AWS, Sep 2024
-- JavaScript & React.js Essential Training — LinkedIn Learning, May 2024
+</td>
+</tr>
+</table>
 
----
+<br>
 
-### 🌐 Connect with me
+## Certifications & Achievements
 
-<p align="left">
-<a href="https://linkedin.com/in/dhanush-t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanush-t" height="30" width="40" /></a>
-<a href="mailto:dhanush102003@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="email" height="28" /></a>
-<a href="https://www.leetcode.com/dhanush_0910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhanush_0910" height="30" width="40" /></a>
-<a href="http://www.skillrack.com/profile/389671/aa05f5b8879b82c014d1ef4c832337e8c6ac9c28" target="blank"><img align="center" src="https://img.shields.io/badge/Skillrack-Profile-orange?style=flat" alt="skillrack" height="30" /></a>
-<a href="https://instagram.com/_dhanush.insta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dhanush.insta_" height="30" width="40" /></a>
-</p>
+<img src="https://img.shields.io/badge/Certified%20Software%20Developer%20(Python)-IOPPC%20%7C%20Mar%202025-6366F1?style=flat-square" /><br>
+<img src="https://img.shields.io/badge/The%20Full%20Stack-Coursera%20%7C%20Jan%202025-6366F1?style=flat-square" /><br>
+<img src="https://img.shields.io/badge/AWS%20Academy%20Cloud%20Foundations-AWS%20%7C%20Sep%202024-6366F1?style=flat-square" /><br>
+<img src="https://img.shields.io/badge/JavaScript%20%26%20React.js%20Essential%20Training-LinkedIn%20Learning%20%7C%20May%202024-6366F1?style=flat-square" /><br>
+<img src="https://img.shields.io/badge/Top%2010%20Finish-Smart%20India%20Hackathon-8B5CF6?style=flat-square&logo=trophy&logoColor=white" />
+
+<br><br>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=dhanush0910&show_icons=true&locale=en&theme=default&hide_border=true&title_color=6366F1&icon_color=8B5CF6&text_color=333" alt="dhanush0910 stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=dhanush0910&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=6366F1&text_color=333" alt="top languages" height="165"/>
+
+<img src="https://streak-stats.demolab.com/?user=dhanush0910&hide_border=true&background=FFFFFF00&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1" alt="streak stats" />
+
+</div>
+
+<br>
+
+## Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dhanushthanigaivel.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanush-t)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanush102003@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/dhanush_0910)
+[![Skillrack](https://img.shields.io/badge/Skillrack-FF6B35?style=for-the-badge)](http://www.skillrack.com/profile/389671/aa05f5b8879b82c014d1ef4c832337e8c6ac9c28)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_dhanush.insta_)
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" width="100%"/>
+</div>
